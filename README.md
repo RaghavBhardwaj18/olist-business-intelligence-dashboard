@@ -134,14 +134,99 @@ olist-business-intelligence-dashboard/
 ├── .gitignore
 │
 ├── data/
-│   ├── olist_orders_dataset.csv
-│   ├── olist_order_items_dataset.csv
-│   ├── olist_products_dataset.csv
-│   ├── product_category_name_translation.csv
-│   └── olist_customers_dataset.csv
+│   ├── datasets_source.txt
 │
 ├── assets/
 │   ├── dashboard_preview_1.png
 │   ├── dashboard_preview_2.png
 │   ├── dashboard_preview_3.png
 │   └── dashboard_preview_4.png
+
+```
+
+---
+
+# ⚙️ Installation & Local Setup
+
+## 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/olist-business-intelligence-dashboard.git
+```
+
+---
+
+## 2️⃣ Navigate to Project Directory
+
+```bash
+cd olist-business-intelligence-dashboard
+```
+
+---
+
+## 3️⃣ Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 4️⃣ Run the Streamlit App
+
+```bash
+streamlit run app.py
+```
+
+---
+
+# 📈 Dashboard Capabilities
+
+The dashboard includes:
+
+- Interactive filtering
+- Dynamic charts
+- Revenue analytics
+- Pricing analysis
+- Freight optimization insights
+- Correlation analysis
+- Geographic intelligence
+- Executive KPI summaries
+- Strategic recommendations
+
+---
+
+# 💡 Business Value
+
+This project demonstrates how raw transactional data can be transformed into:
+
+- Decision-support systems
+- Executive dashboards
+- Operational insights
+- Revenue intelligence platforms
+- Customer analytics solutions
+
+It reflects practical applications of:
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Stakeholder Reporting
+- Insight-Driven Decision Making
+
+---
+
+# 👨‍💻 Author
+
+### Raghav Bhardwaj
+
+Data Science • Machine Learning • AI
+
+🔗 LinkedIn: https://linkedin.com/in/raghav-bhardwaj-  
+🔗 GitHub: https://github.com/RaghavBhardwaj18
+
+---
+
+# ⭐ If You Found This Useful
+
+Feel free to star the repository.
+Thanks!
