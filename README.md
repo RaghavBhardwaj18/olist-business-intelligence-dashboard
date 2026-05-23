@@ -69,15 +69,15 @@ This dashboard helps answer key business questions such as:
 
 # ✨ Key Features
 
-📈 Revenue trend analysis with rolling averages
-🛍️ Product category performance analytics
-💰 Price & freight cost analysis
-🌎 Geographic revenue intelligence
-📦 Order distribution & outlier analysis
-🔥 KPI overview cards
-🎯 Business insights & recommendations
-🌙 Professional dark-themed interactive UI
-⚡ Responsive Streamlit dashboard
+📈 Revenue trend analysis with rolling averages  
+🛍️ Product category performance analytics  
+💰 Price & freight cost analysis  
+🌎 Geographic revenue intelligence  
+📦 Order distribution & outlier analysis  
+🔥 KPI overview cards  
+🎯 Business insights & recommendations  
+🌙 Professional dark-themed interactive UI  
+⚡ Responsive Streamlit dashboard  
 
 ---
 
