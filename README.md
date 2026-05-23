@@ -6,7 +6,7 @@ An interactive **Business Intelligence & Analytics Dashboard** built using **Str
 
 ## 🚀 Live Dashboard
 
-👉 [Open Live Streamlit Dashboard](STREAMLIT_LINK_HERE)
+👉 [Open Live Streamlit Dashboard](https://olist-bi-dashboard.streamlit.app/)
 
 ---
 
@@ -69,15 +69,15 @@ This dashboard helps answer key business questions such as:
 
 # ✨ Key Features
 
-- 📈 Revenue trend analysis with rolling averages
-- 🛍️ Product category performance analytics
-- 💰 Price & freight cost analysis
-- 🌎 Geographic revenue intelligence
-- 📦 Order distribution & outlier analysis
-- 🔥 KPI overview cards
-- 🎯 Business insights & recommendations
-- 🌙 Professional dark-themed interactive UI
-- ⚡ Responsive Streamlit dashboard
+📈 Revenue trend analysis with rolling averages
+🛍️ Product category performance analytics
+💰 Price & freight cost analysis
+🌎 Geographic revenue intelligence
+📦 Order distribution & outlier analysis
+🔥 KPI overview cards
+🎯 Business insights & recommendations
+🌙 Professional dark-themed interactive UI
+⚡ Responsive Streamlit dashboard
 
 ---
 
@@ -134,7 +134,11 @@ olist-business-intelligence-dashboard/
 ├── .gitignore
 │
 ├── data/
-│   ├── datasets_source.txt
+│   ├── olist_orders_dataset.csv
+│   ├── olist_customers_dataset.csv
+│   ├── olist_order_items_dataset.csv
+│   ├── olist_products_dataset.csv
+│   └── product_category_name_translation.csv
 │
 ├── assets/
 │   ├── dashboard_preview_1.png
